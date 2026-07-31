@@ -4,7 +4,7 @@
 
 ## Hi I am Asim Arif. I am a professional with 10+ years of experience as a Software Engineer.
 
-I am a Technical Lead | WordPress Developer | MERN Developer
+I am a Technical Lead | WordPress Developer 
 To see my work visit my website: https://www.asimarif.dev
 
 - 📫 How to reach me: 
